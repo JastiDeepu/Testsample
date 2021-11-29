@@ -7,6 +7,7 @@ public class Intsamples {
 
 		int i=1;
 		int j=2;
+		int k=3;
 		System.out.println(i+j);
 	}
 
